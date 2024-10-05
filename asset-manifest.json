@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ws101_react_landingpage/static/css/main.a798f78e.css",
+    "main.js": "/ws101_react_landingpage/static/js/main.6a4fe09b.js",
+    "static/media/boxicons.svg": "/ws101_react_landingpage/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/boxicons.eot": "/ws101_react_landingpage/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/boxicons.woff": "/ws101_react_landingpage/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/ws101_react_landingpage/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/boxicons.woff2": "/ws101_react_landingpage/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/web2.jpg": "/ws101_react_landingpage/static/media/web2.8b6db9c80a2bf591456a.jpg",
+    "static/media/frontend.webp": "/ws101_react_landingpage/static/media/frontend.ef3e47e39b656ac2a654.webp",
+    "index.html": "/ws101_react_landingpage/index.html",
+    "main.a798f78e.css.map": "/ws101_react_landingpage/static/css/main.a798f78e.css.map",
+    "main.6a4fe09b.js.map": "/ws101_react_landingpage/static/js/main.6a4fe09b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a798f78e.css",
+    "static/js/main.6a4fe09b.js"
+  ]
+}
